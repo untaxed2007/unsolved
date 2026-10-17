@@ -9,3 +9,4 @@
 - https://www.codechef.com/ICPCOL26POST/problems/IC26SH
 - https://leetcode.com/problems/maximum-alternating-subarray-sum-with-one-deletion/description/
 - https://leetcode.com/problems/k-th-digit-in-infinite-string/description/
+- https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices/description/
